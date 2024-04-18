@@ -1,0 +1,118 @@
+*{
+    box-sizing: border-box;
+}
+*:focus{
+    outline: mone;
+}
+body{
+    font-family: Arial;
+    background-color: #00bfff;
+    
+}
+.login{
+    margin: 20px auto;
+    width: 300px;
+}
+.login-screen{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+}
+.app-title{
+    text-align: center;
+    color: white;
+}
+.login-form{
+    text-align: center;
+}
+.control-group{
+    margin-bottom: 10px;
+}
+input{
+    text-align: center;
+    background-color: #ECF0F1;
+    border: 2px solid transparent;
+    border-radius: 3px;
+    font-size: 16px;
+    font-weight: 200;
+    padding: 10px 0;
+    width: 250px;
+    transition: border .5s;
+}
+input:focus{
+    border: 2px solid #00bfff;
+    box-shadow: none;
+}
+.btn{
+
+    border: 2px solid transparent;
+    background: #00bfff;
+    color: #fff;
+    font-size: 16px;
+    line-height: 25px;
+    padding: 10px 0;
+    text-decoration: none;
+    text-shadow: none;
+    border-radius: 3px;
+    box-shadow: none;
+    transition: 0.25s;
+    display: block;
+    width: 250px;
+    margin: 0 auto;
+}
+.btn:hover{
+    background-color: #2980b9;
+}
+.login-link{
+    font-size: 12px;
+    color: #444;
+    display: block;
+}
+
+/* .img {
+    aspect-ratio: 0.96;   
+    object-fit: auto;    
+    object-position: center;    
+    width: 25px;  
+}
+ */
+
+ /* .iphone .overlap-group {
+    position: absolute;
+    width: 296px;
+    height: 38px;
+    top: 194px;
+    left: 44px;
+    background-color: #d9d9d9;
+    border-radius: 6px;
+    border: 1px solid;
+    border-color: #7b7b7b;
+  }
+  .iphone .images {
+    position: absolute;
+    width: 25px;
+    height: 26px;
+    top: 5px;
+    left: 11px;
+    object-fit: cover;
+  }
+  .iphone .div {
+    width: 159px;
+    top: 8px;
+    left: 60px;
+    color: #00000080;
+    font-size: 16px;
+    text-align: center;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+  } */
+
+
+header{
+    background-color: #fff;
+    opacity: 0.5;
+}
