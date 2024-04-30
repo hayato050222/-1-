@@ -115,6 +115,3 @@ h1{
 .safeinfrocontrol-group input[type="text"]::placeholder {
     color: rgba(255, 255, 255, 0.7); /* 半透明の白色を指定 */
 }
-
-
-
