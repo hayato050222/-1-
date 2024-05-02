@@ -20,8 +20,10 @@ h2{
     white-space: nowrap;
     text-align: center;   
 }
-h3 img{
+h3{
+    display: block;
     text-align: center;
+    padding: auto;
 }
 .safecheck{
     margin: 20px auto;
@@ -59,8 +61,10 @@ h3 img{
 #submit:hover{
     background-color: #2980b9;
 
-      
 }
 
-
-
+a{
+    display: block;
+    padding: 50px;
+    text-align: center;
+}

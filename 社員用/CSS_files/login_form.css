@@ -29,6 +29,12 @@ header{
 .login-form{
     text-align: center;
 }
+.error_message{
+    display: block;
+    color: red;
+    font-weight: bold;
+    
+}
 .control-group{
     margin-bottom: 10px;
     border-radius: 3px;

@@ -4,7 +4,7 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./CSS/profile.css">
+    <link rel="stylesheet" href="CSS_files/overview.css">
     <title>Document</title>
 
 </head>
@@ -13,7 +13,7 @@
     <main>
         <div class="profile">
             <div class="scroll-top">
-                <p>&lt;戻る</p>
+                <a href="overview.php">&lt;戻る</p>
             </div>        
             <div class="app-title">
                 <h1>安否状況</h1>
@@ -21,9 +21,7 @@
 
             <div class="profile-screen">
                 <div class="profileform">
-                    <img src="./images/profile.png" alt="profile" width="180px" height="150px">
-
-                    <h2>名前 </h2>
+                    <h2>名前</h2>
                     <h2>安否</h2>
                 </div>
                 <div class="box">
