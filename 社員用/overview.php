@@ -18,8 +18,13 @@ $emp_No = $_SESSION['emp_No'];
 </head>
 <body>
     <header>
-        <p id="logo"><img src="images/groupA_logo.png" alt="logo" width="128"></p>
+        <p id="logo"><img src="images/groupA_logo.png" alt="logo" width="200"></p>
     </header>
+
+        <div class="return">
+            <a href = "login_form.php">ログアウト</a>
+        </div> 
+
     <div class="safecheck">
         <div class="safecheck-screen">
             <div class="app-title">
@@ -37,5 +42,7 @@ $emp_No = $_SESSION['emp_No'];
             </div>
         </div>
     </div>
+
+    
 </body>
 </html>

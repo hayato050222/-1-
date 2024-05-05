@@ -9,24 +9,25 @@ body{
     /* padding: 80px; */
     background-color:rgb(37, 175, 229);
 }
-header{
-    margin: auto;
-}
+
 .app-title{
     text-align: center;
-    color: white;
+    color: black;
 }
-header{
+
+header p{
     margin-left: 80% ;
     margin-right: 20%;
 }
 h1{
     font-size: 60px;
 }
-#submit{
+
+
+.button{
     color: white;
     width: 30%;
-    height: 3em;
+    padding: 1em;
     font-size: 1.3em;
     background: rgb(27, 102, 132);
     border: none;
@@ -37,6 +38,7 @@ h1{
 }
 .relationship_form{
     text-align: center;
+    margin: 160px 0; /* 必要に応じてmargin-topの値を調整してください */
 }
 .return{
     color: white;

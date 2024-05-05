@@ -11,7 +11,7 @@ session_start();
     <title>Document</title>
 </head>
 <body>
-    <header><p id="logo"><img src="images/groupA_logo.png" alt="logo" width = "128" ></p></header>
+    <header><p id="logo"><img src="images/groupA_logo.png" alt="logo" width = "200" ></p></header>
     <div class="login">
         <div class="login_screen">
             <div class="app-title">

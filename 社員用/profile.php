@@ -10,7 +10,7 @@
 
 </head>
 <body>
-    <header><p id="logo"><img src="images/groupA_logo.png" alt="logo" width = "128" ></p></header>
+    <header><p id="logo"><img src="images/groupA_logo.png" alt="logo" width = "200" ></p></header>
     <main>
         <div class="profile">
             <div class="scroll-top">
@@ -26,7 +26,7 @@
                     <h2>安否</h2>
                 </div>
                 <div class="box">
-                    <textarea name="impressions" id="impressions"
+                    <textarea name="impressions" id="impressions" readonly
                     placeholder="備考欄" cols="30" rows="10"></textarea>
                 </div>
             </div>

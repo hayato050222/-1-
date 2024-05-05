@@ -11,7 +11,7 @@
 </head>
 <body>
     <header>
-        <p id="logo"><img src="images/groupA_logo.png" alt="logo" width="128"></p>
+        <p id="logo"><img src="images/groupA_logo.png" alt="logo" width="200"></p>
     </header>
     <main>
         <div class="scroll-top">

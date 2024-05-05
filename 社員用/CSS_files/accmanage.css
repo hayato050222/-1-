@@ -23,19 +23,21 @@ header{
 h1{
     font-size: 60px;
 }
-#submit{
+.button{
     color: white;
-    width: 20%;
-    height: 3em;
+    width: 30%;
+    padding: 1em;
     font-size: 1.3em;
     background: rgb(27, 102, 132);
     border: none;
     border-radius: 5px;
-    letter-spacing: 3px;
+    letter-spacing: 10px;
     font-weight: bold;
-    margin:27px 80px;
+    margin:30px 80px;
 }
+
 .form{
     text-align: center;
+    margin: 180px 0; /* 必要に応じてmargin-topの値を調整してください */
 }
 
