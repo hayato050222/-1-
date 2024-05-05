@@ -4,7 +4,8 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="CSS_files/overview.css">
+    <link rel="stylesheet" href="CSS_files/profile.css">
+    <link rel="stylesheet" href="CSS_files/BackButton.css">
     <title>Document</title>
 
 </head>
@@ -13,7 +14,7 @@
     <main>
         <div class="profile">
             <div class="scroll-top">
-                <a href="overview.php">&lt;戻る</p>
+                <a href="safe_show.php">&lt;戻る</a>
             </div>        
             <div class="app-title">
                 <h1>安否状況</h1>
