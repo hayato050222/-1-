@@ -12,8 +12,6 @@ $emp_No = $_SESSION['emp_No'];
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="CSS_files/overview.css">
-    <link rel="stylesheet" href="CSS_files/BackButton.css">
-
     <title>安否確認</title>
 </head>
 <body>

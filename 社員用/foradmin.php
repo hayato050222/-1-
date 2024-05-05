@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="CSS_files/foradmin.css">
+    <link rel="stylesheet" href="./CSS/foradmin.css">
     <title>Document</title>
 </head>
 <body>
@@ -14,7 +14,7 @@
             <h1>管理者用</h1>
         </div>
         <div class="relationship_form">
-            <button type ="submit" id="submit" href="">アカウント関連</button><br>
+            <button type ="submit" id="submit">アカウント関連</button><br>
             <button type ="submit" id="submit">安否関連</button>
         </div>
         <div class="return">
